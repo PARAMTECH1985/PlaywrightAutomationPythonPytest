@@ -1,0 +1,9 @@
+2026-06-24 18:48:18 - basic_ui_verification_test.py - [INFO] - Open the browser
+2026-06-24 18:48:21 - basic_ui_verification_test.py - [INFO] - Link Name=<Locator frame=<Frame name= url='https://playwright.dev/'> selector='internal:role=link[name="Get started"i]'>
+2026-06-24 18:48:22 - basic_ui_verification_test.py - [INFO] - Verifying the Link has the URL
+2026-06-24 18:54:02 - basic_ui_verification_test.py - [INFO] - Open the browser
+2026-06-24 18:54:08 - basic_ui_verification_test.py - [INFO] - Verify page has the title Playwright
+2026-06-24 18:54:08 - basic_ui_verification_test.py - [INFO] - Create the locator to find the link with name Get started
+2026-06-24 18:54:08 - basic_ui_verification_test.py - [INFO] - Link=<Locator frame=<Frame name= url='https://playwright.dev/'> selector='internal:role=link[name="Get started"i]'>
+2026-06-24 18:54:08 - basic_ui_verification_test.py - [INFO] - Click on the Link Get started
+2026-06-24 18:54:09 - basic_ui_verification_test.py - [INFO] - Verifying that URL has text intro
